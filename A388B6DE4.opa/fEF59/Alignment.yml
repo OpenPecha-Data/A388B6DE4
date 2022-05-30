@@ -1,0 +1,16 @@
+segment_sources:
+  IF06993D6:
+    type: origin_type
+    relation: translation
+    language: en
+  I9D01EDDC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4f8362cad1244893ae455a53d9ca8041:
+    IF06993D6: a0b98b96f78b45cd82bd6d1866aa67f2
+    I9D01EDDC: 2e022552136f43f0aadfcaea4f874f45
+  e1cf3ae5138f43aea83c9bfd578af62d:
+    IF06993D6: ab364a74257041f49afa4bc3e8da3b9a
+    I9D01EDDC: 2458fbb968c24b639a1dfd0fc5f8f4c0
